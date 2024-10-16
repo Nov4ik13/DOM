@@ -1,0 +1,54 @@
+﻿<Page x:Class="Submission_of_Applications_Новосельцев.Pages.Passport"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Submission_of_Applications_Новосельцев.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="675" d:DesignWidth="697"
+      Title="Passport">
+
+    <Grid Background="#F8F9FA">
+        <Grid Background="White" Height="60" VerticalAlignment="Top" >
+            <Image HorizontalAlignment="Left" Height="40" Margin="10, 10,0,0" VerticalAlignment="Top" Width="40" Source="Anime.png"/>
+            <Label Content="Электронная приемная компания" HorizontalAlignment="Left" Margin="55,1,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="19"/>
+            <Label Content="МЦК-ЧЭМК Минобразования Чувашии" HorizontalAlignment="Left" Margin="55,24,0,0" VerticalAlignment="Top"/>
+        </Grid>
+        <Grid Margin="0,60,0,-0.4" Background="#FFF1F1F1">
+            <Label Content="Фамилия:" HorizontalAlignment="Left" Margin="12,0,0,0" VerticalAlignment="Top"/>
+            <TextBox Height="24" Margin="12,26,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" HorizontalAlignment="Left" Width="200"/>
+            <Button Content="Продолжить" HorizontalAlignment="Right" Margin="0,0,10,10.4" VerticalAlignment="Bottom" Width="150" Height="25" Click="Button_Click"/>
+            <Label Content="Имя:" HorizontalAlignment="Left" Margin="242,0,0,0" VerticalAlignment="Top"/>
+            <TextBox Height="24" Margin="242,26,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" HorizontalAlignment="Left" Width="200"/>
+            <Label Content="Отчество:" HorizontalAlignment="Left" Margin="472,0,0,0" VerticalAlignment="Top"/>
+            <TextBox Height="24" Margin="472,26,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" HorizontalAlignment="Left" Width="200"/>
+            <Label Content="Дата рождения:" HorizontalAlignment="Left" Margin="12,63,0,0" VerticalAlignment="Top"/>
+            <TextBox Height="24" Margin="12,89,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" HorizontalAlignment="Left" Width="660"/>
+            <Label Content="Гражданство:" HorizontalAlignment="Left" Margin="12,123,0,0" VerticalAlignment="Top"/>
+            <TextBox Height="24" Margin="12,149,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" HorizontalAlignment="Left" Width="660"/>
+            <Label Content="Место рождения:" HorizontalAlignment="Left" Margin="12,183,0,0" VerticalAlignment="Top"/>
+            <TextBox Height="24" Margin="12,209,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" HorizontalAlignment="Left" Width="660"/>
+            <Label Content="Кем выдан:" HorizontalAlignment="Left" Margin="12,303,0,0" VerticalAlignment="Top"/>
+            <TextBox Height="24" Margin="12,329,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" HorizontalAlignment="Left" Width="660"/>
+            <Label Content="Адресс по прописке:" HorizontalAlignment="Left" Margin="12,363,0,0" VerticalAlignment="Top"/>
+            <TextBox Height="24" Margin="12,389,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" HorizontalAlignment="Left" Width="430"/>
+            <Label Content="Адрес проживания фактический:" HorizontalAlignment="Left" Margin="12,423,0,0" VerticalAlignment="Top"/>
+            <TextBox Height="24" Margin="12,449,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" HorizontalAlignment="Left" Width="430"/>
+            <Label Content="Прикрепиье сканы паспорта с фотографиейи действующей пропиской" HorizontalAlignment="Left" Margin="12,483,0,0" VerticalAlignment="Top"/>
+            <Label Content="(Формат документов должен быть PNG, JPEG или PDF,  максимальный размер каждого файла 5 МБ)" HorizontalAlignment="Left" Margin="20,503,0,0" VerticalAlignment="Top" FontSize="8" Background="{x:Null}" Foreground="Red"/>
+            <TextBox Height="24" Margin="12,524,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" HorizontalAlignment="Left" Width="540"/>
+            <Button Content="Выбрать файл" HorizontalAlignment="Left" Margin="557,524,0,0" VerticalAlignment="Top" Width="115" Height="24"/>
+
+        </Grid>
+        <Label Content="Серия и номер паспорта:" HorizontalAlignment="Left" Margin="12,303,0,0" VerticalAlignment="Top"/>
+        <TextBox Height="24" Margin="12,329,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" HorizontalAlignment="Left" Width="200"/>
+        <Label Content="Дата выдачи:" HorizontalAlignment="Left" Margin="242,303,0,0" VerticalAlignment="Top"/>
+        <TextBox Height="24" Margin="242,329,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" HorizontalAlignment="Left" Width="200"/>
+        <Label Content="Код подразделения:" HorizontalAlignment="Left" Margin="472,303,0,0" VerticalAlignment="Top"/>
+        <TextBox Height="24" Margin="472,329,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" HorizontalAlignment="Left" Width="200"/>
+        <Label Content="Район:" HorizontalAlignment="Left" Margin="472,423,0,0" VerticalAlignment="Top"/>
+        <TextBox Height="24" Margin="472,449,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" HorizontalAlignment="Left" Width="200"/>
+        <Label Content="Район:" HorizontalAlignment="Left" Margin="472,483,0,0" VerticalAlignment="Top"/>
+        <TextBox Height="24" Margin="472,509,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" HorizontalAlignment="Left" Width="200"/>
+    </Grid>
+</Page>

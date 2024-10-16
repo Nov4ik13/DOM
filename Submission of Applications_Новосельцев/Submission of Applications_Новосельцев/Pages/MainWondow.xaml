@@ -1,0 +1,22 @@
+﻿<Page x:Class="Submission_of_Applications_Новосельцев.Pages.MainWondow"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Submission_of_Applications_Новосельцев.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="500"
+      Title="MainWondow">
+
+    <Grid Background="#F8F9FA">
+        <Frame
+            x:Name="frame"
+            NavigationUIVisibility="Hidden"/>
+        <Grid Margin="0" Background="White" Height="62" VerticalAlignment="Top" >
+            <Image HorizontalAlignment="Left" Height="40" Margin="10, 10,0,0" VerticalAlignment="Top" Width="40" Source="Anime.png"/>
+            <Label Content="Электронная приемная компания" HorizontalAlignment="Left" Margin="55,1,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="19"/>
+            <Label Content="МЦК-ЧЭМК Минобразования Чувашии" HorizontalAlignment="Left" Margin="55,24,0,0" VerticalAlignment="Top"/>
+        </Grid>
+        <Button Content="Заполнить анкету" HorizontalAlignment="Left" Margin="10,196,0,0" VerticalAlignment="Top" Width="185" Height="34" Click="Button_Click"/>
+    </Grid>
+</Page>

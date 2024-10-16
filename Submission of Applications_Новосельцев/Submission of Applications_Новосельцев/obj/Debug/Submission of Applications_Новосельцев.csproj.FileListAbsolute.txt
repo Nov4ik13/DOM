@@ -1,0 +1,29 @@
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\bin\Debug\Submission of Applications_Новосельцев.exe.config
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\bin\Debug\Submission of Applications_Новосельцев.exe
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\bin\Debug\Submission of Applications_Новосельцев.pdb
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Submission of Applications_Новосельцев.csprojAssemblyReference.cache
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\MainWindow.g.cs
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Pages\Education.g.cs
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Pages\Statement.g.cs
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\App.g.cs
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Submission of Applications_Новосельцев_MarkupCompile.cache
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Submission of Applications_Новосельцев_MarkupCompile.lref
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\MainWindow.baml
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Pages\Education.baml
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Pages\Statement.baml
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Submission of Applications_Новосельцев.g.resources
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Submission_of_Applications_Новосельцев.Properties.Resources.resources
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Submission of Applications_Новосельцев.csproj.GenerateResource.cache
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Submission of Applications_Новосельцев.csproj.CoreCompileInputs.cache
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Submission of Applications_Новосельцев.exe
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Submission of Applications_Новосельцев.pdb
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Pages\Speciality.g.cs
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Pages\Speciality.baml
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Pages\Contacts.g.cs
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Pages\Passport.g.cs
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Pages\Contacts.baml
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Pages\Passport.baml
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Pages\Parents.g.cs
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Pages\Parents.baml
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Pages\MainWondow.g.cs
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР10\Submission of Applications_Новосельцев\Submission of Applications_Новосельцев\obj\Debug\Pages\MainWondow.baml
