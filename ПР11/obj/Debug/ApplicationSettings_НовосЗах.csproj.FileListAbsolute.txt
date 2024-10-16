@@ -1,0 +1,17 @@
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР11\bin\Debug\ApplicationSettings_Kylosov.exe.config
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР11\bin\Debug\ApplicationSettings_Kylosov.exe
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР11\bin\Debug\ApplicationSettings_Kylosov.pdb
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР11\obj\Debug\MainWindow.g.cs
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР11\obj\Debug\Pages\Settings.g.cs
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР11\obj\Debug\App.g.cs
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР11\obj\Debug\ApplicationSettings_Kylosov_MarkupCompile.cache
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР11\obj\Debug\ApplicationSettings_Kylosov_MarkupCompile.lref
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР11\obj\Debug\MainWindow.baml
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР11\obj\Debug\Pages\Settings.baml
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР11\obj\Debug\ApplicationSettings_Kylosov.g.resources
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР11\obj\Debug\ApplicationSettings_Kylosov.Properties.Resources.resources
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР11\obj\Debug\ApplicationSettings_НовосЗах.csproj.GenerateResource.cache
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР11\obj\Debug\ApplicationSettings_НовосЗах.csproj.CoreCompileInputs.cache
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР11\obj\Debug\ApplicationSettings_Kylosov.exe
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР11\obj\Debug\ApplicationSettings_Kylosov.pdb
+H:\Мои документы\3 КУРС\МДК 01 01 рпм\ПР\ПР11\obj\Debug\ApplicationSettings_НовосЗах.csprojAssemblyReference.cache
